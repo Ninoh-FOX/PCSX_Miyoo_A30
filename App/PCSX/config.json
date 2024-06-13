@@ -1,0 +1,6 @@
+{
+    "label":"PCSX Rearmed",
+    "icon":"pcsx.png",
+    "launch":"launch.sh",
+    "description":"PCSX standalone emulator"
+}                                                                                                     

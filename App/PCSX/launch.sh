@@ -4,4 +4,4 @@ echo $0 $*
 export LD_LIBRARY_PATH=/mnt/SDCARD/miyoo/lib/sdl2:$LD_LIBRARY_PATH
 
 cd /mnt/SDCARD/App/pcsx
-./pcsx -cdfile "$1"
+./pcsx
